@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        {
+          "id": "101",
+          "name": "Security Overview",
+          "text": "This widget provides a summary of security metrics and alerts."
+        },
+        {
+          "id": "102",
+          "name": "Compliance Status",
+          "text": "Displays the current compliance status with various regulations."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Sales Metrics",
+      "widgets": [
+        {
+          "id": "201",
+          "name": "Revenue Summary",
+          "text": "Shows the total revenue for the current quarter."
+        },
+        {
+          "id": "202",
+          "name": "Top Products",
+          "text": "Lists the top-selling products based on sales volume."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "User Analytics",
+      "widgets": [
+        {
+          "id": "301",
+          "name": "Active Users",
+          "text": "Displays the number of active users on the platform."
+        },
+        {
+          "id": "302",
+          "name": "User Growth",
+          "text": "Shows the growth rate of users over the past month."
+        }
+      ]
+    }
+  ]
+}
